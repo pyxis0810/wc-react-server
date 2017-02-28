@@ -41,8 +41,8 @@ router.post('/', function(req, res, next) {
       en: '662, Nonhyeon-ro, Gangnam-gu, Seoul, Republic of Korea'
     },
     place: {
-      ko: '헤리츠',
-      en: 'Heritz'
+      ko: '헤리츠 2층 아그니스홀',
+      en: 'Heritz 2F Agnes Hall'
     },
     transportation: {
       bus: [147, 240, 241, 401, 463, 3412, 3414, 4211, 6411],
